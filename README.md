@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/muller2333?theme=dark&font=Kodchasan&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/muller2333?theme=dark&font=Kodchasan&Extended&ext=heatmap)
